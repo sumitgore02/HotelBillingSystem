@@ -6,7 +6,6 @@ class HotelBillingSystem{
 	static int bill=0;
 	static ArrayList<String> cart = new ArrayList<>();
 	
-	
 	public static void SkingHotel(Scanner sc){
 		
 		System.out.println("1. Order Some Food");
