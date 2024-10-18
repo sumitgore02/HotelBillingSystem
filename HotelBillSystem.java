@@ -1,5 +1,5 @@
 import java.util.*;
-class HotelBillSystem{
+class HotelBillingSystem{
 	
 	static String name;
 	static long mobileNo;
